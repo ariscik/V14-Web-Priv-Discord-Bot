@@ -7,7 +7,7 @@ Projeye fikir sunan **Alestro**, projede emeği geçen tüm **lesnar.shop** üye
 
 ### Panel Resimleri
 <details>
-  <img src="[https://github.com/ertucuk/Discord-Bots-V14/assets/68440024/76b9de4a-b38a-496e-a2fd-443fff2fec9c](https://cdn.discordapp.com/attachments/1169302240071266324/1177863182694494208/logo.png?ex=65740d92&is=65619892&hm=5b18c190b0b4e0964ff071eee94925378c630a851274bddd448f8d64894d1599&)">
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/0cd4dc73-abcd-4261-ae44-b210f0240cfe">
 </details>
 
 
