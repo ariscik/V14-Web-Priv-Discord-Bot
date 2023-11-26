@@ -41,9 +41,6 @@ Projeye fikir sunan **Alestro**, projede emeği geçen tüm **lesnar.shop** üye
 </details>
 
 
-![guardliste]()
-
-
 
 <h1>⚠️ Altyapı fikri ve yazılması tamamen tarafamıza aittir.</h1>
 <h2>Bugüne adar olan her şey gibi bu altyapıya da sahip çıkanlar, ilk ben yaptım diyenler olacaktır. Altyapı tamamen bizim tarafımızdan yapılmıştır. Taklitler aslını yüceltir.</h2>
