@@ -34,9 +34,9 @@ Projeye fikir sunan **Alestro**, projede emeği geçen tüm **lesnar.shop** üye
 ### Panel Guard Yönetim
 <details>
   - Güvenli listesinden güvenlide olan kişileri buton ile çıkarabilir, sağ üstteki buton ile de yeni güvenli kişi ekleyebilirsiniz. Guard işlem listesinden kimin sunucuda yasaklı işlemleri yaptığını görebilirsiniz.
-  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/cb7d8326-527b-4f20-ba11-478f3e93cd9d">
   <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/73da43b4-17b1-41dd-8a90-2258346e5dcf">
   <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/847c3150-c91f-4bad-aff0-bc6bf53f4f70">
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/cb7d8326-527b-4f20-ba11-478f3e93cd9d">
   ( GÜNCELLEME GELECEK VE TEK SAYFAYA DÜŞECEKTİR. YAPIM AŞAMASINDA... )
 </details>
 
