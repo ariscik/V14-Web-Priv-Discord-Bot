@@ -33,13 +33,13 @@ Projeye fikir sunan **Alestro**, projede emeği geçen tüm **lesnar.shop** üye
 
 ### Panel Guard Yönetim
 <details>
-  - Sunucuda çalışacak olan guard botu için sunucudaki üyelerin listelendiği menüden üyeyi seçerek güvenliye ekleyebilirsiniz. Bir diğer sayfada güvenlide bulunan kişileri görebilir ve çıkarabilirsiniz. Güvenli listesini detaylı olarak resim, id ve isim olarak görebilirsiniz. İşlemler listesinden yasaklı işlem yapanları görebilir ve o kişilere ceza uygulanıp uygulanmadığını görebilirsiniz.
-  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/603bcad5-0cc0-438a-8817-7819f4de2a1">
-  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/171c94bb-7b34-4098-90d3-d91b3ac7eb21">
-  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/3a36f987-ba82-4b29-ab01-7114790bcde0">
-  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/94a8764f-f2d9-4ed9-bc74-ab3f7b9b0069">
+  - Güvenli listesinden güvenlide olan kişileri buton ile çıkarabilir, sağ üstteki buton ile de yeni güvenli kişi ekleyebilirsiniz.
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/73da43b4-17b1-41dd-8a90-2258346e5dcf">
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/cb7d8326-527b-4f20-ba11-478f3e93cd9d">
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/0d4e7756-9570-4aa2-9545-a2dc8cea569a">
   ( GÜNCELLEME GELECEK VE TEK SAYFAYA DÜŞECEKTİR. YAPIM AŞAMASINDA... )
 </details>
+
 
 
 
