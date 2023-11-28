@@ -47,5 +47,11 @@ Projeye fikir sunan **Alestro**, projede emeği geçen tüm **lesnar.shop** üye
   <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/58281b27-c8fb-4e3f-9ee6-77a2002f3f92">
 </details>
 
+### Panel Ban Liste
+<details>
+  - Sunucuda banlı olanların listesini görebilir, arama yapabilir ve butonla kaldırabilirsiniz.
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/aaa83997-862b-4b73-9eec-e6d136c1f389">
+</details>
+
 <h1>⚠️ Altyapı fikri ve yazılması tamamen tarafamıza aittir.</h1>
 <h2>Bugüne adar olan her şey gibi bu altyapıya da sahip çıkanlar, ilk ben yaptım diyenler olacaktır. Altyapı tamamen bizim tarafımızdan yapılmıştır. Taklitler aslını yüceltir.</h2>
