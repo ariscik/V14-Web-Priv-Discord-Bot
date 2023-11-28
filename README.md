@@ -53,5 +53,11 @@ Projeye fikir sunan **Alestro**, projede emeği geçen tüm **lesnar.shop** üye
   <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/aaa83997-862b-4b73-9eec-e6d136c1f389">
 </details>
 
+### Panel Backup Liste
+<details>
+  - Datada olup sunucuda olmayan rolleri görebilir ve butona basarak rolü kurabilirsiniz.
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/0c4f32bf-027c-495b-9978-46214f91f22a">
+</details>
+
 <h1>⚠️ Altyapı fikri ve yazılması tamamen tarafamıza aittir.</h1>
 <h2>Bugüne adar olan her şey gibi bu altyapıya da sahip çıkanlar, ilk ben yaptım diyenler olacaktır. Altyapı tamamen bizim tarafımızdan yapılmıştır. Taklitler aslını yüceltir.</h2>
