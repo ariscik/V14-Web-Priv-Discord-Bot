@@ -37,10 +37,15 @@ Projeye fikir sunan **Alestro**, projede emeği geçen tüm **lesnar.shop** üye
   <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/73da43b4-17b1-41dd-8a90-2258346e5dcf">
   <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/847c3150-c91f-4bad-aff0-bc6bf53f4f70">
   <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/cb7d8326-527b-4f20-ba11-478f3e93cd9d">
-  ( GÜNCELLEME GELECEK VE TEK SAYFAYA DÜŞECEKTİR. YAPIM AŞAMASINDA... )
 </details>
 
-
+### Panel Denetim Kaydı
+<details>
+  - Burada logları görebilir, sunucuda olan olayları inceleyebilirsiniz.
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/1bdb22fb-770c-4132-b6f2-2135f79638e5">
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/a0df7d50-416d-40c3-bc43-d70a920a32e8">
+  <img src="https://github.com/ariscik/V14-Web-Priv-Discord-Bot/assets/96181006/58281b27-c8fb-4e3f-9ee6-77a2002f3f92">
+</details>
 
 <h1>⚠️ Altyapı fikri ve yazılması tamamen tarafamıza aittir.</h1>
 <h2>Bugüne adar olan her şey gibi bu altyapıya da sahip çıkanlar, ilk ben yaptım diyenler olacaktır. Altyapı tamamen bizim tarafımızdan yapılmıştır. Taklitler aslını yüceltir.</h2>
