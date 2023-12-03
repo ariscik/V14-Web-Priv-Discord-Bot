@@ -3,7 +3,7 @@ Sunucuda yönetici rolü ile yapılabilecek, vds üzerinden yapabilecekleri tüm
 
 Botu satın almak için discord üzerinden iletişime geçebilirsiniz.
 
-Projeye fikir sunan **Alestro**, projede emeği geçen tüm **lesnar.shop** üyelerine teşekkür ederim.
+Projeye fikir sunan **Alestro**, projede emeği geçen tüm **Discode** üyelerine teşekkür ederim.
 
 ## Proje henüz bitmemiş olup yavaş yavaş ilerlenmektedir. Her eklenen yeni bir sistem için fotoğraflar buraya yüklenecektir. Detaylar için iletişime geçebilirsiniz.
 
